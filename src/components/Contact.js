@@ -8,15 +8,15 @@ export default class Projects extends React.Component {
         <section className="main-section" id="contact-section">
           <ul id="contact-links-ul">
             <li className="contact-li">
-              <a href="mailto:katemeng08@gmail.com?"><img className="contact-icons" src="../images/email-logo.png" alt="Icon of an envelope"/></a>
+              <a href="mailto:katemeng08@gmail.com?"><img className="contact-icons" src="https://ktmng.github.io/portfolio/images/email-logo.png" alt="Icon of an envelope"/></a>
               <a className="contact-a main-a" href="mailto:katemeng08@gmail.com?">Email</a>
             </li>
             <li className="contact-li">
-            <a href="mailto:katemeng08@gmail.com?"><img className="contact-icons" src="../images/linkedin-logo.png" alt="Icon of the Linkedin logo"/></a>
+            <a href="mailto:katemeng08@gmail.com?"><img className="contact-icons" src="https://ktmng.github.io/portfolio/images/linkedin-logo.png" alt="Icon of the Linkedin logo"/></a>
               <a className="contact-a main-a" href="https://www.linkedin.com/in/kate-meng/" target="_blank" rel="noreferrer">Linkedin</a>
             </li>
             <li className="contact-li">
-            <a href="mailto:katemeng08@gmail.com?"><img className="contact-icons" src="../images/github-logo.png" alt="Icon of the Github logo"/></a>
+            <a href="mailto:katemeng08@gmail.com?"><img className="contact-icons" src="https://ktmng.github.io/portfolio/images/github-logo.png" alt="Icon of the Github logo"/></a>
               <a className="contact-a main-a" href="https://github.com/ktmng" target="_blank" rel="noreferrer">Github</a>
             </li>
           </ul>

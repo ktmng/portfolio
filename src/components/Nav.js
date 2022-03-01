@@ -6,7 +6,7 @@ export default class Nav extends React.Component {
   render() {
     return (
       <nav className="nav">
-        <Link id="logo-link" to="/"><img id="logo-png" src="../../images/kate-logo.png" alt="Kate Meng's Logo" /></Link>
+        <Link id="logo-link" to="/"><img id="logo-png" src="https://ktmng.github.io/portfolio/images/kate-logo.png" alt="Kate Meng's Logo" /></Link>
         <Link id="name-link" to="/"><h1 id="name">KATE MENG</h1></Link>
         <ul className="nav-ul">
           <li className="nav-li"><Link className="nav-link" to="/">HOME</Link></li>
