@@ -85,11 +85,11 @@ class App extends Component {
             <Nav />
             <div className="main">
               <Routes>
-                <Route exact path="/" element={<Home />} />
-                <Route path="/about" element={<About />} />
-                <Route path="/projects" element={<Projects />} />
-                <Route path="/projects/:projRoute" element={<Project />} />
-                <Route path="/contact" element={<Contact />} />
+                <Route exact path="/portfolio" element={<Home />} />
+                <Route path="/portfolio/about" element={<About />} />
+                <Route path="/portfolio/projects" element={<Projects />} />
+                <Route path="/portfolio/projects/:projRoute" element={<Project />} />
+                <Route path="/portfolio/contact" element={<Contact />} />
               </Routes>
             </div>
           </div>

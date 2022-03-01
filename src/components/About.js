@@ -52,7 +52,7 @@ export default class About extends React.Component {
                 </section>
                 <h1 className="main-h1">BEYOND CODING</h1>
                 <section className="portfolio-section" >
-                    <img id='portfolio-img-dogs' src="../images/portfolio-pic-dogs.jpg" alt="Kate Meng" />
+                    <img id='portfolio-img-dogs' src="../images/portfolio-pic-dogs.png" alt="Kate Meng" />
                     <p className="portfolio-text">
                         Before teaching myself to code, I had an undergraduate degree in biology and worked as a registered behavioral technician for children with autism.
                         From lab partners to supervisors, there were a lot of people that taught me not only what it means to work well on a team, but also what qualities I value in my team members.
