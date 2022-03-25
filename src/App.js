@@ -90,12 +90,6 @@ class App extends Component {
                 <Route path="/projects" element={<Projects />} />
                 <Route path="/projects/:projRoute" element={<Project />} />
                 <Route path="/contact" element={<Contact />} />
-
-                <Route exact path="/portfolio/" element={<Home />} />
-                <Route path="/portfolio/about" element={<About />} />
-                <Route path="/portfolio/projects" element={<Projects />} />
-                <Route path="/portfolio/projects/:projRoute" element={<Project />} />
-                <Route path="/portfolio/contact" element={<Contact />} />
               </Routes>
             </div>
           </div>

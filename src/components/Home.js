@@ -86,7 +86,7 @@ export default class Home extends React.Component {
           </p>
           <p>
             Did you know that over 200 languages are spoken in the state of California? Programming languages not included.
-            Here are more cool facts below. If you have a favorite or one of your own, it'd be cool if you shared it with me at
+            Here are more cool facts below. If you have a favorite or one of your own, it'd be cool if you shared it with me at {'\n'}
             <a id="home-email-a" className="main-a" href="mailto:katemeng08@gmail.com?">katemeng08@gmail.com</a>
           </p>
 
